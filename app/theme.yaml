@@ -1,0 +1,16 @@
+attrs:
+  Figure:
+    background_fill_color: "#ffffff"
+    border_fill_color: "#ffffff"
+    outline_line_color: "#e6e6e6"
+    toolbar_location: above
+    toolbar_sticky: false
+    width: 1050
+    height: 550
+  Axis:
+    axis_label_text_font_size: "12pt"
+    major_label_text_font_size: "11pt"
+  Title:
+    text_font_size: "16pt"
+  Grid:
+    grid_line_color: "#f0f0f0"

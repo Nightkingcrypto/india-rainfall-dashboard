@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: india-rainfall-dashboard
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: bokeh serve app --address=0.0.0.0 --port=$PORT --use-xheaders --allow-websocket-origin=<HOST>
