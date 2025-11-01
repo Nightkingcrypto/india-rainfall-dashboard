@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # India Rainfall Dashboard (GeoRain Explorer)
 
 Interactive Bokeh Server app for exploring monthly rainfall across Indian subdivisions.
@@ -47,3 +48,7 @@ Visit `https://<YOUR-SUBDOMAIN>.up.railway.app/app`
 ### Notes
 - The `--allow-websocket-origin` value must be the exact host (no `https://`).
 - Because the app is served as `bokeh serve app`, your path is `/app`.
+=======
+# india-rainfall-dashboard
+Interactive Bokeh Server app to explore subdivision rainfall on a web map with filters, histogram, Top-N, and time series.
+>>>>>>> e82da24782ccc491b7db0860f9c5120db1204efd
