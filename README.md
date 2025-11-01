@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # India Rainfall Dashboard (GeoRain Explorer)
 
 Interactive Bokeh Server app for exploring monthly rainfall across Indian subdivisions.
